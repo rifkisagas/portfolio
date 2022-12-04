@@ -88,7 +88,7 @@ span.menu{
 	overflow: hidden;
 	padding: 10px 0;
 	max-width: 0;
-	border-bottom: 3px solid #0583D2;
+	border-bottom: 3px solid #059dfb;
     color: #0583D2;
 	content: attr(data-hover);
 	-webkit-transition: max-width 0.5s;
