@@ -53,8 +53,8 @@ export default function Component() {
           <div className="space-y-4">
             <h2 className="text-3xl font-bold">About Me</h2>
             <p className="text-muted-foreground">
-              Hi, I'm a cybersecurity enthusiast with a passion for ethical hacking and digital forensics. I have
-              experience in Kali Linux, Python, and various security tools. I'm always eager to learn and explore new
+              Hi, I&apos;m a cybersecurity enthusiast with a passion for ethical hacking and digital forensics. I have
+              experience in Kali Linux, Python, and various security tools. I&apos;m always eager to learn and explore new
               technologies in the field of cybersecurity.
             </p>
           </div>
