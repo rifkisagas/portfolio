@@ -1267,9 +1267,14 @@ section,
   color: var(--accent-color);
 }
 
+.certi{
+  background-color: red;
+}
+
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
 }
+
